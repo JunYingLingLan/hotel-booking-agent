@@ -1,0 +1,21 @@
+# 密钥与本地数据，不要提交
+.env
+*.db
+token.json
+
+# 运行缓存
+cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 本地改动备份
+*.orig
+*.bak
+*.bak-*
